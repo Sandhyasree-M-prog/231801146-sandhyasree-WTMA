@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/012/433/747/original/aesthetic-colorful-pastel-floral-fluid-abstract-background-vector.jpg");
+    background-repeat: no-repeat;
+}
+.one{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/027/231/651/original/illustration-graphic-of-aesthetic-background-template-with-minimalist-pastel-colors-and-nature-inspired-accents-simple-and-minimalist-background-template-vector.jpg);
+    background-repeat: no-repeat;
+}
+.text-center{
+    background-color: bisque;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+  }
